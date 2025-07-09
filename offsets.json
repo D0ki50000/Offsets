@@ -1,0 +1,43 @@
+{
+  "client_dll": {
+    "dwEntityList": "",
+    "dwLocalPlayerController": "",
+    "dwLocalPlayerPawn": "",
+    "dwViewMatrix": ""
+  },
+  "schemas": {
+    "client_dll": {
+      "C_BaseEntity": {
+        "m_iTeamNum": "",
+        "m_iHealth": "",
+        "m_pGameSceneNode": ""
+      },
+      "CBasePlayerController": {
+        "m_hPawn": ""
+      },
+      "CCSPlayerController": {
+        "m_hPlayerPawn": "",
+        "m_bPawnIsAlive": false
+      },
+      "C_BasePlayerPawn": {
+        "m_vOldOrigin": ""
+      },
+      "CSkeletonInstance": {
+        "m_modelState": ""
+      },
+      "C_CSPlayerPawnBase": {
+        "m_iIDEntIndex": "",
+        "m_pClippingWeapon": ""
+      },
+      "C_EconEntity": {
+        "m_AttributeManager": ""
+      },
+      "C_AttributeContainer": {
+        "m_Item": ""
+      },
+      "C_EconItemView": {
+        "m_iItemDefinitionIndex": ""
+      }
+    }
+  }
+}
