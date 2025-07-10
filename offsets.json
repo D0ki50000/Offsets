@@ -1,3 +1,18 @@
 {
-  "test": 47382
+  "dwEntityList": 0,
+  "dwLocalPlayerController": 0,
+  "dwLocalPlayerPawn": 0,
+  "dwViewMatrix": 0,
+  "m_iTeamNum": 0x3E3,
+  "m_iHealth": 0x344,
+  "m_hPlayerPawn": 0x824,
+  "m_bPawnIsAlive": 0x82C,
+  "m_vOldOrigin": 0x1324,
+  "m_pGameSceneNode": 0x328,
+  "m_modelState": 0x170,
+  "m_iIDEntIndex": 0x1458,
+  "m_pClippingWeapon": 0x13A0,
+  "m_AttributeManager": 0x1148,
+  "m_Item": 0x50,
+  "m_iItemDefinitionIndex": 0x1BA
 }
