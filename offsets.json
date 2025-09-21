@@ -3,12 +3,12 @@
   "m_iHealth": 844,
   "m_hPlayerPawn": 2300,
   "m_bPawnIsAlive": 2308,
-  "m_vOldOrigin": 5552,
+  "m_vOldOrigin": 5560,
   "m_pGameSceneNode": 816,
-  "m_modelState": 368,
-  "m_iIDEntIndex": 5940,
-  "m_pClippingWeapon": 5664,
-  "m_AttributeManager": 5024,
+  "m_modelState": 400,
+  "m_iIDEntIndex": 16092,
+  "m_pClippingWeapon": 15856,
+  "m_AttributeManager": 5032,
   "m_Item": 80,
   "m_iItemDefinitionIndex": 442
 }
