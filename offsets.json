@@ -18,5 +18,6 @@
   "m_pClippingWeapon": 15808,
   "m_AttributeManager": 4984,
   "m_Item": 80,
-  "m_iItemDefinitionIndex": 442
+  "m_iItemDefinitionIndex": 442,
+  "m_ArmorValue": 10028
 }
