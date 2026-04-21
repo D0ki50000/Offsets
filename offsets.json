@@ -7,17 +7,17 @@
   },
 
   "m_iTeamNum": 1003,
-  "m_sSanitizedPlayerName": 2144,
-  "m_iHealth": 852,
-  "m_hPlayerPawn": 2316,
-  "m_bPawnIsAlive": 2324,
-  "m_vOldOrigin": 5512,
-  "m_pGameSceneNode": 824,
-  "m_modelState": 352,
-  "m_iIDEntIndex": 16044,
+  "m_sSanitizedPlayerName": 2136,
+  "m_iHealth": 844,
+  "m_hPlayerPawn": 2308,
+  "m_bPawnIsAlive": 2316,
+  "m_vOldOrigin": 5008,
+  "m_pGameSceneNode": 816,
+  "m_modelState": 336,
+  "m_iIDEntIndex": 13340,
   "m_pClippingWeapon": 15808,
-  "m_AttributeManager": 4984,
+  "m_AttributeManager": 4480,
   "m_Item": 80,
   "m_iItemDefinitionIndex": 442,
-  "m_ArmorValue": 10028
+  "m_ArmorValue": 7348
 }
