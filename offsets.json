@@ -1,9 +1,9 @@
 {
   "client.dll": {
-    "dwEntityList": 38608368,
-    "dwLocalPlayerController": 36746704,
-    "dwLocalPlayerPawn": 33912608,
-    "dwViewMatrix": 36903728
+    "dwEntityList": 38604224,
+    "dwLocalPlayerController": 36742384,
+    "dwLocalPlayerPawn": 33908480,
+    "dwViewMatrix": 36899552
   },
 
   "m_iTeamNum": 1003,
