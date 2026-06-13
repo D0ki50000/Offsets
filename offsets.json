@@ -1,9 +1,9 @@
 {
   "client.dll": {
-    "dwEntityList": 38620800,
-    "dwLocalPlayerController": 36758976,
-    "dwLocalPlayerPawn": 33924864,
-    "dwViewMatrix": 36915280
+    "dwEntityList": 38696608,
+    "dwLocalPlayerController": 36833056,
+    "dwLocalPlayerPawn": 36968088,
+    "dwViewMatrix": 36989744
   },
 
   "m_iTeamNum": 1003,
@@ -14,7 +14,7 @@
   "m_vOldOrigin": 5008,
   "m_pGameSceneNode": 816,
   "m_modelState": 336,
-  "m_iIDEntIndex": 13388,
+  "m_iIDEntIndex": 13308,
   "m_AttributeManager": 4480,
   "m_Item": 80,
   "m_iItemDefinitionIndex": 442,
