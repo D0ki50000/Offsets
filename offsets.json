@@ -1,7 +1,7 @@
 {
   "client.dll": {
     "dwEntityList": 38696576,
-    "dwLocalPlayerController": 0x2320570,
+    "dwLocalPlayerController": 36832624,
     "dwLocalPlayerPawn": 36967720,
     "dwViewMatrix": 36989376
   },
