@@ -20,5 +20,7 @@
   "m_AttributeManager": 4520,
   "m_Item": 80,
   "m_iItemDefinitionIndex": 442,
-  "m_ArmorValue": 7332
+  "m_ArmorValue": 7332,
+  "m_pWeaponServices": 4616,
+  "m_hActiveWeapon": 96
 }
