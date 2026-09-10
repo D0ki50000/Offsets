@@ -5,7 +5,8 @@
     "dwEntityList": 39287776,
     "dwLocalPlayerController": 37386448,
     "dwLocalPlayerPawn": 37538824,
-    "dwViewMatrix": 37560816
+    "dwViewMatrix": 37560816,
+    "dwGameRules": 37537480
   },
 
   "m_iTeamNum": 999,
@@ -22,5 +23,6 @@
   "m_iItemDefinitionIndex": 442,
   "m_ArmorValue": 7332,
   "m_pWeaponServices": 4616,
-  "m_hActiveWeapon": 96
+  "m_hActiveWeapon": 96,
+  "m_bBombPlanted": 2247
 }
