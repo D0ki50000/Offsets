@@ -24,5 +24,6 @@
   "m_ArmorValue": 7332,
   "m_pWeaponServices": 4616,
   "m_hActiveWeapon": 96,
-  "m_bBombPlanted": 2247
+  "m_bBombPlanted": 2247,
+  "m_flFlashDuration": 5160
 }
