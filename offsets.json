@@ -27,5 +27,8 @@
   "m_pWeaponServices": 4616,
   "m_hActiveWeapon": 96,
   "m_bBombPlanted": 2247,
-  "m_flFlashDuration": 5160
+  "m_flFlashDuration": 5160,
+  "m_pObserverServices": 4640,
+  "m_hObserverTarget": 76,
+  "m_hPawn": 1724
 }
