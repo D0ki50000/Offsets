@@ -6,7 +6,7 @@
     "dwLocalPlayerController": 39026696,
     "dwLocalPlayerPawn": 39192216,
     "dwViewMatrix": 39217424,
-    "dwGameRules": 39177808,
+    "dwGameRules": 29036176,
     "dwNetworkGameClient": 9547712,
     "dwNetworkGameClient_maxClients": 576
   },
