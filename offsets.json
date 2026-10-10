@@ -1,12 +1,12 @@
 {
-  "buildid": 25738536,
+  "buildid": 25815307,
   
   "client.dll": {
-    "dwEntityList": 40990760,
-    "dwLocalPlayerController": 39034984,
-    "dwLocalPlayerPawn": 39200776,
-    "dwViewMatrix": 39223200,
-    "dwGameRules": 39186000,
+    "dwEntityList": 40965528,
+    "dwLocalPlayerController": 39008424,
+    "dwLocalPlayerPawn": 39175112,
+    "dwViewMatrix": 39197904,
+    "dwGameRules": 29023376,
     "dwNetworkGameClient": 9547712,
     "dwNetworkGameClient_maxClients": 576
   },
