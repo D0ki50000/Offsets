@@ -1,8 +1,8 @@
 {
-  "buildid": 26281801,
+  "buildid": 26334290,
   
   "client.dll": {
-    "dwEntityList": 41020168,
+    "dwEntityList": 41020200,
     "dwLocalPlayerController": 39064568,
     "dwLocalPlayerPawn": 39229640,
     "dwViewMatrix": 39252432,
